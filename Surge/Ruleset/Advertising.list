@@ -1,8 +1,8 @@
 # Advertising 广告（以及隐私追踪）
 # > General
 DOMAIN-KEYWORD,adservice
-DOMAIN-KEYWORD,analytics
-DOMAIN-KEYWORD,analysis
+# DOMAIN-KEYWORD,analytics
+# DOMAIN-KEYWORD,analysis
 
 DOMAIN-SUFFIX,42trck.com
 DOMAIN-SUFFIX,51.la
